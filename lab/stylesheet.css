@@ -1,0 +1,55 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: initial;
+}
+#form{
+    margin: 0 auto;
+    border: 1px solid gray; 
+    width: 40%;
+    font-size: 2em;
+}
+#form>div{
+    margin-left: 20%;
+}
+#emailinput{
+    margin: 4% 3% 4% 0;
+    width: 30%;
+    height: 1.6em;
+    font-size: 1.5rem;
+    border-color: blue;
+    border-style: solid;
+    border-radius: .2em;
+    border-width: .09em;
+}
+#naaminput{
+    margin: 4% 3% 0 0;
+    width: 30%;
+    height: 1.6em;
+    font-size: 1.5rem;
+    border-color: blue;
+    border-style: solid;
+    border-radius: .2em;
+    border-width: .09em;
+}
+#submit{
+    margin: 5% 0 5% 30%;
+    width: 20%;
+    height: 4em;
+    background-color: white;
+    border-color: grey;
+    border-radius: 2em;
+    border-width: .1em;
+    border-style: solid;
+
+}
+#secondcontainer{
+    margin: 0 auto;
+    border: 1px solid gray; 
+    width: 40%;
+    font-size: 2em;
+}
+.error{
+    color: red;
+    font-size: .5em;
+
+}
